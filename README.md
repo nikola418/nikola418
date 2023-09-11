@@ -1,13 +1,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nikola418)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on a SaaS Application
-- 🌱 I’m currently learning Angular amongst other things
-- 👯 I’m looking to collaborate on Fullstack Web Projects
+- 🔭 I’m currently working on a NestJS Backend
+- 🌱 I’m currently learning Angular and Deno amongst other things
+- 👯 I’m looking to collaborate on really any interesting projects
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
