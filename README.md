@@ -1,6 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikola418&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 - 🔭 I’m currently working on a NestJS Backend
-- 🌱 I’m currently learning Angular and Deno amongst other things
 - 👯 I’m looking to collaborate on really any interesting projects
 <!--
 - 🤔 I’m looking for help with ...
