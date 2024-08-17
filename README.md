@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikola418&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 - 🔭 I’m currently working on a personal NestJS project in order to improve my knowledge and skills 
 - 🤝 I’m looking to collaborate on really any interesting projects
 <!--
