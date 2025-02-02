@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a NestJS/Ionic/React/Capacitor project
+- 🔭 I’m currently working on a NestJS/Ionic/React project
 - 🤝 I’m looking to collaborate on really any interesting projects
 <!--
 - 🤔 I’m looking for help with ...
